@@ -16,7 +16,7 @@ public class CourseServiceImpl implements CourseService {
     @Autowired
     private CourseDao courseDao;
 
-    public CourseServiceImpl() {
+    public CourseServiceImpl(){
 
 
 //		list = new ArrayList<>();
